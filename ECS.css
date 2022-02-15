@@ -1,0 +1,147 @@
+/*Elements*/
+body
+{
+  background-color: #F8F6F4;
+  font-family: 'Alegreya', serif;;
+}
+hr 
+{ 
+    border-top: 6px solid white;
+} 
+/*Header Section*/
+#header-img
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    width: 1349px;
+    z-index: -1;
+}
+#head-icon
+{
+    height: 60px;
+    margin-left: 100px;
+    display: inline;
+}
+.head-span
+{
+    display: inline;
+    font-size:xx-large;
+    margin-left:25px;
+    color: rgb(70, 68, 68);
+   
+}
+
+#login-icon
+{
+    height: 50px;
+    display: inline;
+    margin-left: 475px;
+    
+}
+#titlesec
+{ 
+    margin-top: 110px;
+    margin-left: 425px;
+}
+#header
+{
+    display: inline;
+    margin-left: 20px;
+}
+#head-section
+{
+    margin-top:30px ;
+    margin-bottom: 500px;
+}
+.h1t
+{
+    font-size: 80px;
+    color:  #CF360D;
+}
+
+/*About Section*/
+#about
+{
+    width: 85%;
+    margin: 30px auto 30px;
+}
+.para
+{
+ font-size:larger;
+ line-height: 1.5;
+ color: rgb(73, 73, 73);
+}
+
+.h1
+{
+    font-size:40px;
+    color:  #CF360D;
+    font-weight: bold;
+}
+
+/*Features*/
+
+#features
+{
+    width: 85%;
+    margin: 40px auto;
+    color: rgb(68, 66, 66);
+    
+}
+.feat
+{
+    color: rgb(61, 58, 58);
+    font-weight: bold;
+}
+.feap
+{
+   margin-left: 40px;
+}
+/*Career Choices*/
+#career
+{
+    width: 85%;
+    margin: 40px auto;
+}
+.carrow
+{
+    margin: 30px auto;
+
+}
+.carbox
+{
+    height: 450px;
+    width: 225px;
+    font-size: medium;
+    margin: 30px 25px 10px 25px;
+    padding: 0px;
+    background-color:  #F6F1DC;
+    border-radius: 30px;
+    line-height: 2.5;
+    text-align: center;
+}
+
+#quote
+{ 
+    width: 85%;
+    margin: 100px auto;
+    text-align: center;
+    font-style: italic;
+
+}
+/*Footer Section*/
+#footer
+{
+    height:150px;
+    margin: 300px auto 0px auto;
+    text-align: center;
+    background-color:#EFE5B6;
+
+}
+  
+   
+
+
+
