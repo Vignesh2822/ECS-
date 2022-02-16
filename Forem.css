@@ -1,0 +1,132 @@
+/*Elements*/
+body
+{
+  background-color: #F8F6F4;
+  font-family: 'Alegreya', serif;;
+}
+h1
+{
+   color: #CF360D;
+}
+h2{
+    font-size:35px;
+    font-weight: bold;
+}
+p
+{
+    font-size: 30px;
+}
+hr
+{
+   border-top: 3px solid rgb(255, 255, 255);
+}
+
+/*Navigation Bar*/
+
+#head-section
+{
+    background-color: #EFE5B6;
+    height: 100px;
+    padding-top: 20px;
+
+}
+#head-icon
+{
+    height: 60px;
+    margin-left: 100px;
+ 
+    display: inline;
+}
+#header
+{
+    display: inline;
+}
+.head-span
+{
+    display: inline;
+    margin-left:25px;
+    color: rgb(70, 68, 68);
+    font-size:1.75rem;
+   
+}
+#login-icon
+{
+    height: 50px;
+    display: inline;
+    margin-left: 475px;
+    
+}
+
+/*Options*/
+
+#options
+{
+    width: 20%;
+    height: 400px;
+    margin: 100px 50px;
+    background-color: #EFE5B6;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 40px;
+    float: left;
+   
+ 
+  
+}
+.optionstext
+{
+    font-size: 2.5rem;
+}
+
+/*Forum*/
+
+#forum
+{
+    width: 70%;
+    margin-left: 27%;
+    margin-top: 100px;
+    
+}
+#discussion
+{
+    border: 3px solid #EFE5B6;
+    padding: 20px;
+
+  
+}
+.profile
+
+{
+    height: 50px;
+    display: inline;
+}
+
+.vote
+{
+    font-size: 35px;
+    border: 3px solid #EFE5B6;
+    padding:10px 20px;
+    margin-bottom: 100px;
+  
+}
+
+.votesymbol
+{
+    margin-right: 80px;
+    
+    
+   
+}
+
+/*Footer Section*/
+
+#footer
+{
+    height:150px;
+    margin: 100px auto 0px auto;
+    text-align: center;
+    background-color:#EFE5B6;
+    padding-top: 60px;
+
+
+}
