@@ -1,0 +1,158 @@
+body
+{
+  background-color: #F8F6F4;
+  font-family: 'Alegreya', serif;;
+}
+h1
+{
+   color: #CF360D;
+}
+h2{
+    font-size:28px;
+    font-weight: bold;
+}
+p
+{
+    font-size: 24px;
+}
+hr
+{
+   border-top: 3px solid rgb(255, 255, 255);
+}
+
+
+/*Options*/
+
+#options
+{
+    width: 20%;
+    height: 320px;
+    margin:auto 50px;
+    background-color: #EFE5B6;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+   
+ 
+  
+}
+.optionstext
+{
+    font-size: 1.75rem;
+}
+
+                                                     /* Answers */
+ 
+/*Forum*/
+
+#forum
+{
+    width: 70%;
+    margin-left: 27%;
+    margin-top: 100px;
+    
+}
+#discussion
+{
+    border: 3px solid #EFE5B6;
+    padding: 20px;
+
+  
+}
+.profile
+
+{
+    height: 50px;
+    display: inline;
+}
+
+.vote
+{
+    
+    border: 3px solid #EFE5B6;
+    padding:10px 20px;
+    margin-bottom: 100px;
+  
+}
+.vote button{
+    font-size: 25px;
+    border: none;
+    background: none;
+    margin: auto 30px;
+}
+
+.votesymbol
+{
+    margin-right: 80px;
+      
+}
+
+/* Post New */
+
+
+#postnew
+{
+    width: 65%;
+    margin-left: 27%;
+    margin-top: 100px;
+    
+}
+
+#question
+{
+    border: 3px solid #EFE5B6;  
+    padding: 30px 100px 40px 20px;
+    height: 250px;
+
+}       
+
+#question hr
+{
+    border-top: 5px solid #EFE5B6;
+    margin: 50px auto 20px auto;
+
+}
+.postbutton
+{
+    border: 3px solid #EFE5B6;  
+    padding: 15px;
+}
+
+#postnew h2
+{
+  color: #CF360D;
+  font-size: 35px;
+}
+
+
+.postbutton
+{
+    text-align: center;
+}
+
+.answer
+{
+    border: 3px solid #EFE5B6;  
+    text-align: center;
+    height: 100px;
+}
+
+.answer button
+{ 
+  border: none; 
+  background: none;
+  padding-top: 20px;
+  font-size: xx-large;
+}
+
+#forum p
+{
+   font-size: 30px;
+ 
+}
+
+#qanda
+{
+    margin: 30px auto 200px;
+}
