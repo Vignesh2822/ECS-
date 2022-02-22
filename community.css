@@ -1,0 +1,85 @@
+#test
+{
+    margin: 15px;
+    margin: auto;
+    width: 75%;
+}
+.rightfix
+{
+    float:right;
+    margin:auto 75px;
+    font-size: 30px;
+    color: rgb(51, 49, 49);
+    
+}
+
+#test input[type=text] 
+{
+    float: right;
+    padding: 3px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 20px;
+}
+
+#test button
+{
+    border:none ;
+    background: none;
+    margin-right: 10px;
+}
+
+.mark
+{
+    float:right ;
+    background: none;
+    font-size: 25px;
+    margin: auto 250px;
+}
+  
+#test hr
+{
+  border: 1px solid black;
+}
+.testspace
+{
+    margin-bottom: 30px;
+}
+
+
+#questionpage
+{
+    width: 75%;
+    margin: 30px auto;
+   
+}
+
+.testtopic
+{
+    border: 2px solid #EFE5B6;
+    text-align: center;
+}
+
+.testquestion
+{
+    border: 2px solid #EFE5B6;
+    padding: 5px 10px;
+}
+
+#choose
+{
+    margin:20px 50px;
+}
+
+#frontandback
+{
+    padding: 10px 20px;
+    border: 2px solid #EFE5B6;
+}
+
+#frontandback button
+{
+    background: none;
+    border: none;
+}
